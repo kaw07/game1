@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# 123123
+#
+
+projectname: 123123
+vendorid: com.mycompany
+mainmodule: com.mycompany.123123
